@@ -1,3 +1,8 @@
+-- Video Youtube: https://youtu.be/sOA1QhAkkR0?si=3dVIXdakO99RrHOf
+/* 
+  SELECT 
+*/
+
 SELECT *
 FROM empleados
 

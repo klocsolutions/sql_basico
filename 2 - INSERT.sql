@@ -1,3 +1,4 @@
+-- Video Youtube: https://youtu.be/R1xEG3mopMo?si=Hy68m2gRQiZEJzen
 -- Insertar regristros a la tabla de empleados
 INSERT INTO Empleados VALUES
 (1001, 'Paulina', 'Rubio', 30, 'Femenino'),

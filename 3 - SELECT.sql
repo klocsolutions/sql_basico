@@ -1,7 +1,3 @@
-/* 
-  SELECT 
-*/
-
 SELECT *
 FROM empleados
 
